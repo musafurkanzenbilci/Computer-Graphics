@@ -10,6 +10,13 @@ This repository contains a raytracing project implemented in C++. The project ge
 - Support for global illumination techniques such as path tracing and bidirectional path tracing.
 - Additional features such as texture mapping, reflections, refractions and depth of field.
 
+## Generated Images
+
+![bunny](https://user-images.githubusercontent.com/123447782/214501989-8f36b066-b4d7-4353-a7d5-49895778bf41.png)
+![dragon](https://user-images.githubusercontent.com/123447782/214502020-011abdbe-bf76-453d-8fe6-93e1bee9c8cf.png)
+![color balls](https://user-images.githubusercontent.com/123447782/214501991-2a29cdd4-e6e8-49ce-9a5e-28bf8c6a2177.png)
+![reflection balls](https://user-images.githubusercontent.com/123447782/214502024-cecb28b2-3c35-4fed-8da7-534b7e2a0121.png)
+
 ## Getting Started
 
 1. Clone the repository and navigate to the project directory.
